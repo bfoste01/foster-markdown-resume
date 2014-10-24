@@ -1,5 +1,9 @@
 # Markdown Resume Generator
 
+Thank you very much to [there4](https://github.com/there4/markdown-resume) for developing this beautiful template. I am keeping much of their readme the same for ease of reference on my end, but I encourage anyone who is looking at making a resume in markdown to check out [this project](https://github.com/there4/markdown-resume). 
+
+Right now I am using their design template, but I am looking to change the CSS to suite my aesthetic taste soon. 
+
 Turn a simple Markdown document into an elegant resume with both a perfect
 pdf printable format, and a responsive css3 html5 file. You can view a sample
 at the [blog post for the project][blog].
@@ -98,30 +102,7 @@ However, no HTML from that project has been used in this. General layout has
 been reused, and media queries have been added. It's a nice template, and if you
 are a more comfortable with html than markdown, you should use it.
 
-## Changelog
-
-* __2.0.8__ : New `readable` theme contributed by @ahmadnazir, minor refactor
-  to support a /links directory
-* __2.0.7__ : Update composer to use `sunra/php-simple-html-dom-parser` this
-  appears to be better maintained and more popular to close #27
-* __2.0.6__ : Fix empty template list from phar file to close #24
-* __2.0.5__ : Remove default value for the `--refresh` option to close #22
-* __2.0.4__ : Fix path resolution problem with absolute paths to close #16
-* __2.0.3__ : Add optional duration to the `--refresh` option to close #15
-* __2.0.2__ : Add new dependency check for `mbstring` to close #20
-* __2.0.1__ : Add new `swissen` template with Helvetica styling (@beautifulcode)
-* __2.0.0__ : Complete rewrite with the [symfony console component][console].
-  Deployment is now done with a compiled phar file, and development dependencies
-  are managed with composer.
-* __0.9.0__ : Add composer and update README with new changelog
-* __0.8.8__ : Add Chinese text example (@ishitcno1)
-* __0.8.7__ : Update pdf formatting of the modern template (@roleary)
-* __0.8.6__ : Fix output path (@abhikandoi2000)
-* __0.8.5__ : Fix issue #2
-* __0.8.4__ : Correct chmod and add parameter for output directory (@kevinxucs)
-* __0.8.2__ : Update build script and add refresh command option
-* __0.8.1__ : Updating formatting of initial templates
-* __0.8__ : Initial Release to Public
+## Useful Links
 
 [srt]: http://sampleresumetemplate.net/ "A great starting point"
 [blog]: http://there4development.com/blog/2012/12/31/markdown-resume-builder/
