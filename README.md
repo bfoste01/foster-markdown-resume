@@ -102,10 +102,11 @@ However, no HTML from that project has been used in this. General layout has
 been reused, and media queries have been added. It's a nice template, and if you
 are a more comfortable with html than markdown, you should use it.
 
+
 ## Useful Links
 
-[srt]: http://sampleresumetemplate.net/ "A great starting point"
-[blog]: http://there4development.com/blog/2012/12/31/markdown-resume-builder/
-[pake]: https://github.com/indeyets/pake/wiki/Installing-Pake
-[wkhtmltopdf]: https://github.com/pdfkit/pdfkit/wiki/Installing-WKHTMLTOPDF
-[console]: http://symfony.com/doc/current/components/console/introduction.html
+- [srt]: http://sampleresumetemplate.net/ "A great starting point"
+- [blog]: http://there4development.com/blog/2012/12/31/markdown-resume-builder/
+- [pake]: https://github.com/indeyets/pake/wiki/Installing-Pake
+- [wkhtmltopdf]: https://github.com/pdfkit/pdfkit/wiki/Installing-WKHTMLTOPDF
+- [console]: http://symfony.com/doc/current/components/console/introduction.html
